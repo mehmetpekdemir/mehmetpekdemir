@@ -8,3 +8,4 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mehmetpekdemir&show_icons=true&theme=tokyonight)
  
+<center><img src="https://gidigi.com/cdn/love.gif" height='300'></center>
