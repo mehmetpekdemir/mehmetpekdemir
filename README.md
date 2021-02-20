@@ -13,3 +13,8 @@
 ### Connect with me 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='32'>](https://www.linkedin.com/in/mehmet-pekdemir/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='32'>](https://www.youtube.com/channel/UC2eeWfh6G6J6xnBmM1xyPjA/playlists)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mehmetpekdemir/count.svg" />
+</p>
